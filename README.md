@@ -1,5 +1,9 @@
 # Energy-Optimal Asymmetrical Gait Selection for Quadrupedal Robots
 
+## Summary Video
+
+https://github.com/DLARlab/EnergyOptimalGaitSelection/assets/80292027/9067cccb-c4e8-40de-81d3-cf8ad17839ff
+
 ## Overview
 
 This document presents the code utilized for constructing a nonlinear programming (NLP) problem aimed at identifying five optimal asymmetrical gaits for the A1 quadrupedal robot, specifically: Pronking Forward (PF), Bounding with Extended Suspension (BE), Bounding with Gathered Suspension (BG), Bounding with Two Suspensions (B2), and Bounding without Suspension (B0). This code employs Fast Robot Optimization and Simulation (FROST) toolkit (https://github.com/ayonga/frost-dev). Additionally, the solutions trajectories, energetics (cost of transport and joint work), and center of mass variations results are also presented and illustrated. 
@@ -50,8 +54,5 @@ To use this code, you need MATLAB R2019b and Wolfram Mathematica 12.1.
 
 1- Run "Plot_Data" file.
 
-## Summary
-
-https://github.com/DLARlab/EnergyOptimalGaitSelection/assets/80292027/9067cccb-c4e8-40de-81d3-cf8ad17839ff
 
 
