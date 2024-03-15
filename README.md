@@ -2,7 +2,7 @@
 
 ## Overview
 
-This document presents the code utilized for constructing a nonlinear programming (NLP) problem aimed at identifying five optimal asymmetrical gaits for the A1 quadrupedal robot, specifically: Pronking Forward (PF), Bounding with Extended Suspension (BE), Bounding with Gathered Suspension (BG), Bounding with Two Suspensions (B2), and Bounding without Suspension (B0). This code utilizes Fast Robot Optimization and Simulation (FROST) toolkit (https://github.com/ayonga/frost-dev). Additionally, the solutions trajectories, energetics (cost of transport and joint work), and center of mass variations results are also presented and illustrated. 
+This document presents the code utilized for constructing a nonlinear programming (NLP) problem aimed at identifying five optimal asymmetrical gaits for the A1 quadrupedal robot, specifically: Pronking Forward (PF), Bounding with Extended Suspension (BE), Bounding with Gathered Suspension (BG), Bounding with Two Suspensions (B2), and Bounding without Suspension (B0). This code employs Fast Robot Optimization and Simulation (FROST) toolkit (https://github.com/ayonga/frost-dev). Additionally, the solutions trajectories, energetics (cost of transport and joint work), and center of mass variations results are also presented and illustrated. 
 
 
 Contents:
