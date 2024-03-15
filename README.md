@@ -19,7 +19,7 @@ This is research code, expect that it changes often and any fitness for a partic
 
 The source code is released under a [BSD 3-Clause license](LICENSE).
 
-**Author: Yasser G. Alqaham<br />
+**Author: Yasser G. Alqaham, Jing Cheng, Zhenyu Gan<br />
 Affiliation: [DLAR Lab](https://dlarlab.syr.edu)<br />
 Maintainer: Yasser G. Alqaham, ygalqaha@syr.edu />**
 With contributions by: Zhenyu Gan, Ayonga Hereid, and Aaron D. Ames.
