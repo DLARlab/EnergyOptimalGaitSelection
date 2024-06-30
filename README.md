@@ -30,7 +30,7 @@ With contributions by: Zhenyu Gan, Ayonga Hereid, and Aaron D. Ames.
 
 This projected was initially developed at Syracuse University (Dynamic Locomotion and Robotics Lab).
 
-![Symmetrical Gaits Diagram](https://github.com/DLARlab/EnergyOptimalGaitSelection/assets/80292027/d99a1608-25b4-425f-9a7a-8f98f9a1ae26)
+[Asymmetrical Gaits Diagram.pdf](https://github.com/user-attachments/files/16043802/Asymmetrical.Gaits.Diagram.pdf)
 
 ## Publications
 
