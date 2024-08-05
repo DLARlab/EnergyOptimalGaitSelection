@@ -2,7 +2,9 @@
 
 ## Summary Video
 
-https://github.com/DLARlab/EnergyOptimalGaitSelection/assets/80292027/30baa0d6-38bb-4767-87ae-5aaf0b949e54
+
+https://github.com/user-attachments/assets/2c3f5879-08e0-40aa-b3ed-8a50f21db868
+
 
 ## Overview
 
