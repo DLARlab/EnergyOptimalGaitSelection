@@ -2,9 +2,7 @@
 
 ## Summary Video
 
-
-https://github.com/user-attachments/assets/2c3f5879-08e0-40aa-b3ed-8a50f21db868
-
+https://github.com/user-attachments/assets/d77427bb-4827-4ab9-8582-5ed29179351b
 
 ## Overview
 
