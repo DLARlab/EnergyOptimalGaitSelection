@@ -34,7 +34,7 @@ This projected was initially developed at Syracuse University (Dynamic Locomotio
 
 ## Publications
 
-This work has been submitted to IEEE Robotics and Automation Letters (RAL).
+Y. G. Alqaham, J. Cheng and Z. Gan, "Energy-Optimal Asymmetrical Gait Selection for Quadrupedal Robots," in IEEE Robotics and Automation Letters, vol. 9, no. 10, pp. 8386-8393, Oct. 2024, doi: 10.1109/LRA.2024.3443589.
 
 ## Requirements
 
